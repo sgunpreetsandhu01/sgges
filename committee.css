@@ -19,13 +19,9 @@ img{
     background-color:#bbbbbb;
     margin: auto;
     width: 60%;
-    height: 70%;
-    border: transparent;
-    padding: 20px;
-    text-align:center;
-    position: static;
-    color:#EF3C43;
-    font-size: 20px;
+    height: 70%;body{
+    background-color:#f0f0f0;
+    font-family: 'Poppins', sans-serif;
 }
 .sub1
 {
